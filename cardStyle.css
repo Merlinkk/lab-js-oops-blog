@@ -110,11 +110,8 @@ nav ul a {
 }
 
 img#close {
-	position: absolute;
-	right: -910px;
-	margin: 13px 0px 0px 19px;
 	cursor: pointer;
-	z-index: 9;
+
 }
 
 img#rect {
